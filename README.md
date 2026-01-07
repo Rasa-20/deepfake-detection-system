@@ -9,7 +9,7 @@ Key highlights:
 - **R(2+1)D CNN (ResNet-18 backbone)** for spatio-temporal video encoding  
 - **LSTM** for audio sequence modeling  
 - **Late fusion** of modalities before classification  
-- **FastAPI backend** and **React + Tailwind frontend** (optional)  
+- **FastAPI backend** and **React + Tailwind frontend**   
 - Evaluation metrics: **Accuracy, Precision, Recall, F1-score, AUC-ROC**
 
 ---
